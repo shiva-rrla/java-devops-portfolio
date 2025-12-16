@@ -13,7 +13,7 @@ scalable Java microservices with strong DevOps & SRE practices.
 - Observability (Grafana, Splunk, New Relic)
 
 ## 🚀 Featured Projects
-- [Java Core Deep Dive](https://github.com/...)
+- [Java Core Deep Dive](https://github.com/shiva-rrla/java-core-deep-dive)
 - [Spring Boot Microservices](https://github.com/...)
 - [CI/CD Automation](https://github.com/...)
 - [Cloud Infrastructure & Kubernetes](https://github.com/...)
