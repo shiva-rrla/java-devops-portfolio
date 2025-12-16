@@ -14,9 +14,9 @@ scalable Java microservices with strong DevOps & SRE practices.
 
 ## 🚀 Featured Projects
 - [Java Core Deep Dive](https://github.com/shiva-rrla/java-core-deep-dive)
-- [Spring Boot Microservices](https://github.com/...)
-- [CI/CD Automation](https://github.com/...)
-- [Cloud Infrastructure & Kubernetes](https://github.com/...)
+- [Spring Boot Microservices](https://github.com/shiva-rrla/spring-boot-microservices)
+- [CI/CD Automation](https://github.com/shiva-rrla/devops-ci-cd)
+- [Cloud Infrastructure & Kubernetes](https://github.com/shiva-rrla/cloud-infra-k8s)
 
 ## 🏗 Architecture & Design
 - Microservices patterns
